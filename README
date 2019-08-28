@@ -1,0 +1,39 @@
+# esx_benzin
+
+Sie müssen das Oil holen und dann Refinen und dann verkaufen!
+Sie brauchen keinen job vom Jobcenter und den job auszuführen!
+
+Items
+-Oil
+-Benzin
+
+# Installation
+1. Installieren Sie das Script
+
+
+2. Kopieren Sie das Projekt in Ihren esx-Ressourcenordner.
+
+
+3. Vergessen Sie nicht, die Datei esx_benzin.sql in Ihre Datenbank zu importieren.
+
+
+4. Fügen Sie den Startbefehl "start esx_benzin" zu Ihrer Datei "server.cfg" ein
+
+
+# Resource Required
+- [pNotify]
+
+# Created by
+- [Costa Concales]
+
+# Legal
+### License
+esx_benzin - esx_benzin
+
+Copyright (C) 2015-2019 Costa Concales
+
+Dieses Programm ist freie Software: Sie können es unter den Bedingungen der GNU General Public License, wie von der Free Software Foundation veröffentlicht, weitergeben und / oder modifizieren, entweder Version 3 der Lizenz oder (nach Ihrer Wahl) eine spätere Version.
+
+Dieses Programm wird in der Hoffnung verbreitet, dass es nützlich sein wird, aber OHNE JEGLICHE GARANTIE; auch ohne die implizite Garantie der MARKTFÄHIGKEIT oder EIGNUNG FÜR EINEN BESTIMMTEN ZWECK. Weitere Informationen finden Sie in der GNU General Public License.
+
+Sie sollten eine Kopie der GNU General Public License zusammen mit diesem Programm erhalten haben. Wenn nicht, siehe http://www.gnu.org/licenses/.
